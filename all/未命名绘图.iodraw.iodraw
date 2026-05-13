@@ -25,6 +25,9 @@
         <mxCell id="z7UumR7g9GqzP1WZxXhF-4" value="Defense Box防御" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z7UumR7g9GqzP1WZxXhF-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="230" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
